@@ -1,0 +1,1 @@
+/* Le programme affiche une erreur, car b.h() ne marche pas */
